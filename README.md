@@ -1,7 +1,7 @@
 # Presigned VoltageShift.Kext for DellXPS7590
-This is a pre-signed version of the UnderVolt.kext to under volt your machine. Only tested on my XPS 7590.
+This is a pre-signed version of the UnderVolt.kext to under volt your machine. Only tested on my XPS 7590. See [latest releases](https://github.com/stakeout55/presigned_VoltageShift_Kext_DellXPS7590/releases/latest)
 
-## USE AT OWN RISK - THIS CAN PERMENANTLY DAMAGE YOUR COMPUTER
+`## USE AT OWN RISK - THIS CAN PERMENANTLY DAMAGE YOUR COMPUTER`
 
 I wasn't ever able to get the original Voltage Shift to work [Here](https://github.com/sicreative/VoltageShift) so I did some work and came up with a modified / pre-signed version. I take no credit for invention/creation of this kext!!!!
 
