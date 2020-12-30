@@ -5,14 +5,14 @@ This is a pre-signed version of the UnderVolt.kext to under volt your machine. O
 
 I wasn't ever able to get the original Voltage Shift to work [Here](https://github.com/sicreative/VoltageShift) so I did some work and came up with a modified / pre-signed version. I take no credit for invention/creation of this kext!!!!
 
+## CLI Interface for VoltageShift:
 Cd to working directory of voltageshift in terminal and run the following:
 `sudo chmod +x voltageshift`
 
-Then you will be good to go!
-
+## "How-To" on settings, underclocking, and recommendations, etc
 https://www.insanelymac.com/forum/topic/331775-guide-how-to-undervolt-your-haswell-and-above-cpu/
 
-This guide is helpful, I think I’m around -110 -92 -110
+I think I’m around -110 -92 -110
 
 But am still testing. Enjoy!
 
