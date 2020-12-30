@@ -14,7 +14,7 @@ This will start up VoltageShift in CLI format. Follow the guide below for settin
 ## "How-To" on settings, underclocking, and recommendations, etc
 https://www.insanelymac.com/forum/topic/331775-guide-how-to-undervolt-your-haswell-and-above-cpu/
 
-I think I’m around -110 -92 -110
+I think I’m around `-110 -92 -110`
 
 But am still testing. Enjoy!
 
