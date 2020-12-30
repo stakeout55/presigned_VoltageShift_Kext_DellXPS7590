@@ -3,10 +3,10 @@ This is a pre-signed version of the UnderVolt.kext to under volt your machine. O
 
 ## USE AT OWN RISK - THIS CAN PERMENANTLY DAMAGE YOUR COMPUTER
 
-I wasn't ever able to get the original Voltage Shift to work (Here)[https://github.com/sicreative/VoltageShift] so I did some work and came up with a modified / pre-signed version. 
+I wasn't ever able to get the original Voltage Shift to work [Here](https://github.com/sicreative/VoltageShift) so I did some work and came up with a modified / pre-signed version. 
 
 Cd to working directory of voltageshift in terminal and run the following:
-`<sudo chmod +x voltageshift>`
+`sudo chmod +x voltageshift`
 
 Then you will be good to go!
 
