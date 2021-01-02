@@ -7,9 +7,9 @@ I wasn't ever able to get the original Voltage Shift to work [Here](https://gith
 
 ## Getting started -- CLI Interface for VoltageShift:
 Cd to working directory of voltageshift in terminal and run the following:
-`sudo chmod -R 0755 VoltageShift.kext<br/>
-sudo chown -R 0:0 VoltageShift.kext<br/>
-./voltageshift info`
+`sudo chmod -R 0755 VoltageShift.kext`  
+`sudo chown -R 0:0 VoltageShift.kext`  
+`./voltageshift info`
 
 This will start up VoltageShift in CLI format. Follow the guide below for settings and usage...
 
