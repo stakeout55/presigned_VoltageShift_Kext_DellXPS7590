@@ -6,7 +6,7 @@ This is a pre-signed version of the UnderVolt.kext to under volt your machine. O
 I wasn't ever able to get the original Voltage Shift to work [Here](https://github.com/sicreative/VoltageShift) so I did some work and came up with a modified / pre-signed version. I take no credit for invention/creation of this kext!!!!
 
 ## Getting started -- CLI Interface for VoltageShift:
-Cd to working directory of voltageshift in terminal and run the following:
+Cd to working directory of voltageshift in terminal and run the following:  
 `sudo chmod -R 0755 VoltageShift.kext`  
 `sudo chown -R 0:0 VoltageShift.kext`  
 `./voltageshift info`
